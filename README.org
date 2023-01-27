@@ -1,12 +1,12 @@
 * Spring 2023 - Lab 01
 
-* Last name: 
+* Last name: Ni
 
-* First name: 
+* First name: Derek
 
-* GitHub username: 
+* GitHub username: Derek242
 
-* Notes:
+* Notes: Csci135
 
 
 
